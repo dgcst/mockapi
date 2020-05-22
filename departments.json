@@ -1,0 +1,26 @@
+{
+  "Report_Entry": [
+    {
+      "allowedCompany": "TEST1",
+      "code": "M",
+      "isInactive": "0",
+      "allowedCostCenter": "COSTCENTERS1",
+      "name": "Pharma",
+      "lastUpdatedOn": "2019-10-01T06:18:31.066-07:00",
+      "Id": "ZZZZZZ001",
+      "managerId": "WRKDAY001",
+      "parentSupervisoryId": "2006649"
+    },
+    {
+      "allowedCompany": "TEST2",
+      "code": "D",
+      "isInactive": "0",
+      "allowedCostCenter": "COSTCENTERS2",
+      "name": "Diagnostic Division",
+      "lastUpdatedOn": "2019-12-17T01:14:02.399-08:00",
+      "Id": "ZZZZZZ002",
+      "managerId": "WRKDAY007",
+      "parentSupervisoryId": "2006649"
+    }
+  ]
+}
